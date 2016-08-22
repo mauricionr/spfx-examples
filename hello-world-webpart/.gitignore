@@ -15,7 +15,7 @@ lib
 solution
 temp
 
-# Coverage directory used by tools like istanbul
+# Coverage directory used by tools like Istanbul
 coverage
 
 # OSX
