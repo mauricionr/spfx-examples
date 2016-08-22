@@ -1,0 +1,7 @@
+[submodule "sp-dev-docs"]
+ path = sp-dev-docs
+ url = https://github.com/mauricionr/sp-dev-docs
+
+[submodule "spfx-weather-webpart"]
+ path = spfx-weather-webpart
+ url = https://github.com/mauricionr/spfx-weather-webpart
