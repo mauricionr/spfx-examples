@@ -1,0 +1,19 @@
+{
+  "name": "spfx-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauricionr/spfx-examples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mauricionr/spfx-examples/issues"
+  },
+  "homepage": "https://github.com/mauricionr/spfx-examples#readme"
+}
