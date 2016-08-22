@@ -1,19 +1,28 @@
 {
   "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
-
   "id": "3e09b7b2-384f-48f7-a83a-e6adcfe03875",
   "componentType": "WebPart",
   "version": "0.0.1",
   "manifestVersion": 2,
-
-  "preconfiguredEntries": [{
-    "groupId": "3e09b7b2-384f-48f7-a83a-e6adcfe03875",
-    "group": { "default": "Under Development" },
-    "title": { "default": "HelloWorld" },
-    "description": { "default": "HelloWorld description" },
-    "officeFabricIconFontName": "Page",
-    "properties": {
-      "description": "HelloWorld"
+  "preconfiguredEntries": [
+    {
+      "groupId": "3e09b7b2-384f-48f7-a83a-e6adcfe03875",
+      "group": {
+        "default": "Under Development"
+      },
+      "title": {
+        "default": "HelloWorld"
+      },
+      "description": {
+        "default": "HelloWorld description"
+      },
+      "officeFabricIconFontName": "Page",
+      "properties": {
+        "description": "HelloWorld"
+      }
     }
-  }]
+  ],
+  "loaderConfig": [
+    "http://mcwkd17:4321"
+  ]
 }
