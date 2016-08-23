@@ -22,7 +22,7 @@
       }
     }
   ],
-  "loaderConfig": [
-    "http://mcwkd17:4321"
-  ]
+  "loaderConfig": {
+    "internalModuleBaseUrls":["http://mauricionr:4321"]
+  }
 }
